@@ -156,7 +156,7 @@ section {
     height: 40vh; 
 }
 
-.section__pic-container {
+.profile__pic-container {
     height: 400px; 
     width: 400px; 
     margin: auto 0;
@@ -297,9 +297,8 @@ section {
     height: 80%
 }
 
-.section__pic-container {
-    height: 400px;
-    width: 400px; 
+/* .section__pic-container {
+    height: 100px;
+    width: 100px; 
     margin: auto 0;
-}
-
+} */
