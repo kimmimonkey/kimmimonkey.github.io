@@ -153,7 +153,7 @@ section {
     display: flex;
     justify-content: center; 
     gap: 5rem; 
-    height: 40vh; 
+    height: 80vh; 
 }
 
 
@@ -294,6 +294,7 @@ section {
 }
 
 .section-container {
+    margin-top: 2rem;
     gap: 4rem;
     height: 80%
 }
